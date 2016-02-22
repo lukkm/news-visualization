@@ -1,6 +1,5 @@
 source 'https://rubygems.org'
 
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.5.1'
 # Use sqlite3 as the database for Active Record
@@ -24,10 +23,6 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'activeresource', require: 'active_resource'
-gem 'dcjs-rails'
-gem 'd3-rails'
-gem 'c3-rails'
-gem 'crossfilter-rails'
 gem 'rest-client'
 
 # Use ActiveModel has_secure_password
