@@ -22,7 +22,6 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'activeresource', require: 'active_resource'
 gem 'rest-client'
-gem 'pg'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
